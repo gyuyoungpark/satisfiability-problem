@@ -1,0 +1,24 @@
+# pip freeze of the project interpreter (Python 3.12.3), 2026-10-26; written by scripts/record_environment.py
+beautifulsoup4==4.15.0
+contourpy==1.4.0
+cycler==0.12.1
+dimod==0.12.21
+fonttools==4.67.0
+jij-cimod==1.7.3
+kiwisolver==1.5.1
+lxml==6.1.3
+matplotlib==3.11.2
+numpy==2.3.5
+openjij==0.11.6
+packaging==26.3
+pillow==13.0.0
+pindakaas==0.6.1
+pyparsing==3.3.3
+pypdf==6.16.2
+python-dateutil==3.0.0
+python-sat==1.9.dev17
+scipy==1.15.3
+six==1.17.0
+soupsieve==3.0.4
+typing_extensions==4.16.0
+tzdata==2026.5

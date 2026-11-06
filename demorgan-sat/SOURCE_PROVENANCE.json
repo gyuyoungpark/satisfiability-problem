@@ -1,0 +1,17 @@
+{
+  "bp_sp_bench.py": {
+    "original_sha256": "6baaecc22d3ce553d2362b4a3f2d9f0ddebd1b933b16b53a201ca307f61873a8",
+    "public_sha256": "7f02a01f5069e84555cd0327ff2e77a845c7bdeabea3b7a00ea1c6f9ba8ff8f4",
+    "patch": "Replace only BENCH_ROOT constant with benchmark_root() and add its import; all other original bytes and function/class ASTs are unchanged."
+  },
+  "sa_pbit_bench.py": {
+    "original_sha256": "51e42ca36db61778c1017c2ae2b6174e947e67abaa8c0ead36f8346ed8f97755",
+    "public_sha256": "81c08e15baaf7ecee2f07fddf2fc0b679d9d28e00a627863ec431149fdfd065c",
+    "patch": "Replace only BENCH_ROOT constant with benchmark_root() and add its import; all other original bytes and function/class ASTs are unchanged."
+  },
+  "cross_encoding_bench.py": {
+    "original_sha256": "54cee410fea068ed940d4772ba809a664fb89f17577eb6fca519fe0b1f869097",
+    "public_sha256": "e319e50595215d3692ecb12dab7f552ee71e74dbee3ee1ce1f6310594430c12c",
+    "patch": "Replace only BENCH_ROOT constant with benchmark_root() and add its import; all other original bytes and function/class ASTs are unchanged."
+  }
+}

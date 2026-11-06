@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Cite the repository at the exact commit used for the analysis."
+type: software
+title: "Code and data for Solution loss in auxiliary-free pairwise Ising encodings of random 3-SAT"
+authors:
+  - family-names: Park
+    given-names: Gyuyoung
+  - family-names: Lee
+    given-names: OukJae
+version: "2026-11-07"
+date-released: 2026-11-07
+repository-code: "https://github.com/gyuyoungpark/satisfiability-problem"
+license:
+  - MIT
+  - CC-BY-4.0

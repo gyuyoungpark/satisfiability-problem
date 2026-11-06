@@ -1,0 +1,59 @@
+{
+  "version": "2026-11-07",
+  "scope": "Stored-output reanalysis of all reference numbers and ten figures; no raw stochastic reruns or article PDF build",
+  "archives": {
+    "code": {
+      "parts": [
+        "artifacts/code-001.tar.gz.part",
+        "artifacts/code-002.tar.gz.part"
+      ],
+      "sha256": "31bebdb0034815a835e0ae3c9771f1e97149512b8d6fed4a5a0f10d0e4afafba",
+      "compressed_bytes": 2861660,
+      "files": 181
+    },
+    "data": {
+      "parts": [
+        "artifacts/data-001.tar.gz.part",
+        "artifacts/data-002.tar.gz.part",
+        "artifacts/data-003.tar.gz.part",
+        "artifacts/data-004.tar.gz.part",
+        "artifacts/data-005.tar.gz.part",
+        "artifacts/data-006.tar.gz.part",
+        "artifacts/data-007.tar.gz.part",
+        "artifacts/data-008.tar.gz.part",
+        "artifacts/data-009.tar.gz.part",
+        "artifacts/data-010.tar.gz.part",
+        "artifacts/data-011.tar.gz.part",
+        "artifacts/data-012.tar.gz.part",
+        "artifacts/data-013.tar.gz.part",
+        "artifacts/data-014.tar.gz.part",
+        "artifacts/data-015.tar.gz.part"
+      ],
+      "sha256": "42ab44720f7eec5eddae651d04afe4bc5e936da02fc950052b6c11a1d06e86c2",
+      "compressed_bytes": 30486306,
+      "files": 226
+    }
+  },
+  "files": {
+    "artifacts/code-001.tar.gz.part": "ec9558a00a22fc82b115d369029903f31e87e8474ac9ad1ed595fad017f1acc9",
+    "artifacts/code-002.tar.gz.part": "c6fb7c8aa2acbca3b47fdbb5550232d1b96391b9b399e05d49e6bfb17f7f2852",
+    "artifacts/data-001.tar.gz.part": "66354496867b9a5611776800939b13eded00ba79992738c6ac3ef02398b8aa6a",
+    "artifacts/data-002.tar.gz.part": "762a27ec533231e2d67c7184115587b3e3455cc3668572e4d720dff4c9f79386",
+    "artifacts/data-003.tar.gz.part": "e2b7a0d9ad74546dcf9f1c931c9852f92aa18195edabcd2206c062aa8c45d434",
+    "artifacts/data-004.tar.gz.part": "e09d33920a4f5ab724c8e625e1573170c22bd69d4856c7e02303f9dc4c13b4e8",
+    "artifacts/data-005.tar.gz.part": "b8b1811435c02c95491b19a2b53b3d0cd22a6e962ae79088381d974e4b3fd017",
+    "artifacts/data-006.tar.gz.part": "e2479cdbe10b9e9b461d698099d36a828778348c52df783ef1c022753b56496a",
+    "artifacts/data-007.tar.gz.part": "478ccf6dcc2735acc0eb73a8d5aab4cfac1036f034c75c6cd33a55d941402263",
+    "artifacts/data-008.tar.gz.part": "b4c747a73343fafeac2c8227c8132312150707f93af66dc9027884032bc53b45",
+    "artifacts/data-009.tar.gz.part": "2bfc40a5b67990f803c2c48092a061aaa46b56a2f0f00b8e323f95747055a327",
+    "artifacts/data-010.tar.gz.part": "55b7de9eb8e5988f04e5b74da7aabdb9febc8691cb3a0e11466f1645bf5e7ca2",
+    "artifacts/data-011.tar.gz.part": "11ab808aeef93aaf02ad6508faeb8b1064ea372b82a0971761891db16292e6a1",
+    "artifacts/data-012.tar.gz.part": "53997429b5ec786a77ba29108ec581ff766025f8c6b11acb64d3573e6d950e92",
+    "artifacts/data-013.tar.gz.part": "f3112b14856eeb4b0ac1fc65751a423afb09b7065d138601c58fcd6e0e4b8b7b",
+    "artifacts/data-014.tar.gz.part": "4f7512c5226a08de09523552e9d8ceb939549757290485b0dc65e9db7ea1a6b6",
+    "artifacts/data-015.tar.gz.part": "74d4763f8ac8eee52c20c05f74e55c9f998376364ff86146af551e8262095d7e",
+    "requirements-lock.txt": "4cf0b1041c35cfa0bd12c0d09062752ebc4f193084649cebbf0fbefb60b712ee",
+    "reproduce.py": "408d513b8ef7e5b41032d9ce5b1bf47335c5316e32f034da0beccf7d2d15bcf3"
+  },
+  "numbers_sha256": "c2bdd9a04ca55d188181b100f8f1255a136afa22725fd4a349b287639e0025ae"
+}
