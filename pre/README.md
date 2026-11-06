@@ -13,7 +13,7 @@ python3 pre/reproduce.py
 The command verifies and extracts the compressed artifact, creates an isolated environment with the recorded
 package versions, obtains the required SATLIB inputs from their original host, and runs the numerical and figure
 checks. The first run needs network access for Python packages and SATLIB. Outputs and logs are under
-`pre/.reproduced/artifact/reproduced/`. A successful run ends with `PRE ARTIFACT VERIFIED`.
+`pre/.reproduced/artifact/reproduced/`. A successful run prints `PRE ARTIFACT VERIFIED` before the final output-path message.
 
 All 6,552 reference numerical definitions are regenerated and compared byte for byte, including the underlying
 provenance gates. All ten figure PNGs must match their reference hashes. The public numeric-use fixture preserves
@@ -30,3 +30,7 @@ and are assembled automatically. Inside the artifact, `ARTIFACT_MANIFEST.sha256`
 
 The authors' code uses the MIT license. Their computed data use CC BY 4.0. Vendored material retains its upstream
 notices. SATLIB CNF files are not redistributed. Cite this repository at the specific commit used for the analysis.
+
+Python 3.12 is required. Package versions are pinned, but package downloads are not locked by distribution hashes.
+A fresh installation needs PyPI and the SATLIB host. Figure legend checks read the shipped numerical reference
+after the regenerated registry has passed byte-identity checks. Asset filenames retain their historical numbering.

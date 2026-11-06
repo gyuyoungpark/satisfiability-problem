@@ -11,7 +11,8 @@ This repository contains a small code release for the earlier SAT 2026 study and
 
 The PRE artifact reanalyses stored outputs. It does not rerun every original simulation or build the article PDF.
 The source SATLIB instances are fetched from their original host rather than redistributed. Article prose,
-cover letters, internal reviews and author discussions are not included.
+cover letters, full internal reviews and author discussions are not included. Numerical history and code comments
+retain provenance labels and references to some private review records; those records are not distributed.
 
 The authors' code is MIT licensed. Their computed data are CC BY 4.0. Third-party notices are included in the artifact.
 For an immutable citation, use the repository commit containing the files being cited.
