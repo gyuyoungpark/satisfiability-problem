@@ -7,7 +7,7 @@ authors:
     given-names: Gyuyoung
   - family-names: Lee
     given-names: OukJae
-version: "2026-11-07"
+version: "2026-11-07-r2"
 date-released: 2026-11-07
 repository-code: "https://github.com/gyuyoungpark/satisfiability-problem"
 license:

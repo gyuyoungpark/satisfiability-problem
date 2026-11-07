@@ -2,7 +2,7 @@
 
 **Solution loss in auxiliary-free pairwise Ising encodings of random 3-SAT**
 
-Gyuyoung Park and OukJae Lee. Version 2026-11-07.
+Gyuyoung Park and OukJae Lee. Version 2026-11-07-r2.
 
 With Python 3.12 installed, run from the repository root
 
@@ -34,3 +34,8 @@ notices. SATLIB CNF files are not redistributed. Cite this repository at the spe
 Python 3.12 is required. Package versions are pinned, but package downloads are not locked by distribution hashes.
 A fresh installation needs PyPI and the SATLIB host. Figure legend checks read the shipped numerical reference
 after the regenerated registry has passed byte-identity checks. Asset filenames retain their historical numbering.
+
+Public source copies omit personal temporary paths and editorial workflow labels. SOURCE_TRANSFORMS.json records
+the original and public-copy identities and the narrowly scoped metadata/path changes. Original scientific
+values, failed checks and dated methodological amendments are retained. Stable registry identifiers and filenames
+remain where the reproduction code uses them. The original project and historical commits are preserved.
